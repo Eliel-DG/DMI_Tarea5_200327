@@ -28,13 +28,12 @@ Tarea 5
 
 | No. |                                                                Pruebas                                                                |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |     ![Prueba 1 de inicio a la aplicacion](https://github.com/srzzuares/dmi_tarea5_200527_flutter/blob/main/asset/pruebas/p-1.png)     |
-|  2  |   ![Prueba 2 de Tocar el boton primera vez](https://github.com/srzzuares/dmi_tarea5_200527_flutter/blob/main/asset/pruebas/p-2.png)   |
-|  3  | ![Prueba 3 de Tocar el boton primera segunda](https://github.com/srzzuares/dmi_tarea5_200527_flutter/blob/main/asset/pruebas/p-3.png) |
-|  4  |         ![Prueba 4 de Tocar el menu](https://github.com/srzzuares/dmi_tarea5_200527_flutter/blob/main/asset/pruebas/p-4.png)          |
-|  5  |      ![Prueba 5 de GridView de imagenes](https://github.com/srzzuares/dmi_tarea5_200527_flutter/blob/main/asset/pruebas/p-5.png)      |
+|  1  |     ![Prueba 1 de inicio a la aplicacion](https://github.com/elieldiazgalindo/DMI_Tarea5_200327/blob/main/assets/tohru.png)     |
+|  2  |   ![Prueba 2 de Tocar el boton primera vez](https://github.com/elieldiazgalindo/DMI_Tarea5_200327/blob/main/assets/najire.png)   |
+|  3  | ![Prueba 3 de Tocar el boton primera segunda](https://github.com/elieldiazgalindo/DMI_Tarea5_200327/blob/main/assets/miku.png) |
+|  4  |         ![Prueba 4 de Tocar el menu](https://github.com/elieldiazgalindo/DMI_Tarea5_200327/blob/main/assets/akame.png)          |
 
-# Tarea5_200527
+# Tarea5_200327
 
 ## Instalación
 
